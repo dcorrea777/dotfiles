@@ -71,7 +71,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions copyfile extract gitfast jsontools zsh-syntax-highlighting)
+plugins=(git asdf docker docker-compose extract zsh-autosuggestions copyfile extract gitfast jsontools zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
